@@ -152,62 +152,17 @@ Projetos e exercícios desenvolvidos durante a graduação em Sistemas de Inform
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseVitor-net&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=JoseVitor-net&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-net&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseVitor-net&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVitor-net&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoseVitor-net&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVitor-net&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🌎 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/JoseVitor-net">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jos%C3%A9-vitor-rodrigues-de-sousa-25a304213/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Connecting systems. Securing networks. Building infrastructure.
-
-<img src="https://komarev.com/ghpvc/?username=JoseVitor-net&style=flat-square&color=blue" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=JoseVitor-net&theme=tokyonight&hide_border=true" />
 
 </div>
